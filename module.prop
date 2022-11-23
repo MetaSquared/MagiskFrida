@@ -1,0 +1,8 @@
+id=magiskfrida
+name=MagiskFrida
+version=16.0.2
+versionCode=1602
+author=Elysia
+description=Runs frida-server on boot as root with magisk.
+support=https://github.com/Elysia-Realm/MaigiskFrida/issues
+minMagisk=1530
